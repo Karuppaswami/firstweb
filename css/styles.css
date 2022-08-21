@@ -1,0 +1,136 @@
+body{
+  margin: 0;
+  color: #40514E;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 100%;
+}
+h1{
+  color: #66BFBF;
+  font-size: 3.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  padding-bottom: 10px;
+}
+h2{
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+  font-size: 2rem;
+}
+h3{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+  font-size: 2rem;
+
+}
+
+.Top-container{
+      background-color: #E4F9F5;
+      position: relative;
+      padding: 80px;
+      margin-top: 10px;
+}
+.Middle-container{
+  background-color: #CBF1F5;
+  text-align: center;
+  position: relative;
+}
+.Bottom-container{
+  background-color: #A6E3E9;
+  text-align: center;
+}
+.Top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.Bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.skill-row{
+  line-height: 2;
+  margin-bottom: 80px;
+  text-align: left;
+}
+.yogag{
+  line-height: 2;
+  text-align: right;
+}
+.app-development{
+  width: 15%;
+  float: left;
+  margin-right: 30px;
+}
+.Yoga{
+  width: 15%;
+  float: right;
+  margin-right: 200px;
+}
+hr
+{
+  border: dotted #EAF6F6;
+  border-bottom: none;
+  width: 4%;
+  margin: 80px auto;
+    }
+p{
+  font-family: 'Montserrat', sans-serif;
+  font: 5px;
+}
+.Profile{
+  margin-top: 10px;
+}
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 18;
+  -moz-border-radius: 18;
+  border-radius: 18px;
+  font-family: 'Merriweather', serif;
+  color: #ffffff;
+  font-size: 33px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+.bottom-container{
+  margin-top: 10%;
+  background-color: #66BFBF;
+  padding: 60px 0 20px;
+}
+a{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+}
+
+.copyright{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+}
+.pic{
+  margin-top: 60px;
+  width: 25%;
+}
